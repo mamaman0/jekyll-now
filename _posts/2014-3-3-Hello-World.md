@@ -1,8 +1,8 @@
 ---
 layout: おおお
-title: なんやろこれ
+title: こげちゃん
 ---
-こんちゃすコンちゃんす魔の
+医学生・プログラマー
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
