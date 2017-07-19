@@ -1,7 +1,6 @@
 ---
 layout: post
-title: にゃー
+title: まの
 ---
 
-こんちゃーす
-　まの
+医学生
